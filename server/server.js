@@ -4,7 +4,7 @@ const app = express()
 const Book = require('./Models/book')
 
 
-const url = "mongodb+srv://mongo:fStqR3fnpNrABU_@cluster0.ya30d.mongodb.net/Online-Library?retryWrites=true&w=majority"
+const url = ""
 const connection = {
     useNewUrlParser: true,
     useUnifiedTopology: true
